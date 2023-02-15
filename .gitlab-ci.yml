@@ -1,4 +1,4 @@
-image: julia:1.6
+image: julia:1.8
 
 before_script:
   - apt-get -qq update; apt-get -y install git python3-dev python3-pip
@@ -10,7 +10,7 @@ pages:
     - julia --project=@. -e 'import Pkg; Pkg.instantiate();
       using NodeJS; run(`$(npm_cmd()) install highlight.js`);
       using Franklin;
-      optimize()'
+      # optimize()'
     - mv __site public
   artifacts:
     paths:
