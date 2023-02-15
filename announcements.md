@@ -1,3 +1,6 @@
 # Announcements
+> **Live Events** 
+- **15/02/2023** ----"I solemnly swear that I am up to no good."
 
-“What should young people do with their lives today? Many things, obviously. But the most daring thing is to create stable communities in which the terrible disease of loneliness can be cured.” - Kurt Vonnegut
+> **Online Events** 
+- **15/02/2023** ----"I solemnly swear that I am up to no good."

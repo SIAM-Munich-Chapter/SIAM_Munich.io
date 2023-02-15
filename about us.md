@@ -3,7 +3,7 @@ Society for Industrial and Applied Mathematics (SIAM) is a professional society 
 SIAM is the world's largest scientific society devoted to applied mathematics.
 
 ~~~
-<a href="https://forms.gle/PW8aaSyuMa69f8BZ6"><img src="/assets/SIAM_sell.png" alt="title" style="float:center";/></a>
+<a href="https://forms.gle/PW8aaSyuMa69f8BZ6"><img src="/assets/SIAM_sell.png" alt="title" style="float:center;height=auto;width:75%"/></a>
 ~~~
 
 # SIAM Student Chapter at Munich
@@ -21,13 +21,13 @@ The SIAM Student Chapter at the Technical University of Munich serves as a surro
  - Free SIAM Memberships to all our members.
  - A chance to attend the SIAM Annual Meetings.
  - Invited lectures on the Frontiers of Research.
- - Activity Groups for different sub-disciplines in Applied Mathematics.
+ - Activity Groups for different fields in Applied Mathematics.
  - Seminars/Tutorials on FAIR practices for your Reserach.
 
 ---
 **WHAT WE ASK OF OUR FUTURE MEMBERS**
  - Memberships are free.
  - Participation is volunatry.
- - Enthusiam for math.
+ - Enthusiam for mathematics and open science.
 
 ---
