@@ -2529,7 +2529,7 @@ th {
   margin-right: 0;
   width: 100%;
   clear: both;
-  position: absolute;
+  position: relative;
   bottom: 0;
   height: auto;
   margin-top: 3em;
